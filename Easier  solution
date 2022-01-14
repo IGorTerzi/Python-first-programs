@@ -1,5 +1,6 @@
-# UVOLEN-zadnie
-My first programs on Python
+'''python
+///код
+'''
 
 for i in range(1, 10, 3):
     for j in range(1, 11):
